@@ -1,7 +1,12 @@
 aid: eversource-energy
-url: https://raw.githubusercontent.com/api-evangelist/eversource-energy/refs/heads/main/apis.yml
+url: 
+  https://raw.githubusercontent.com/api-evangelist/eversource-energy/refs/heads/main/apis.yml
 modified: '2026-03-21'
 apis: []
 common:
   - type: Website
     url: https://www.eversource-energy.com
+description: >-
+  Eversource Energy is the largest energy delivery company in New England, providing
+  electric, natural gas, and water service to millions of customers in Connecticut,
+  Massachusetts, and New Hampshire.
