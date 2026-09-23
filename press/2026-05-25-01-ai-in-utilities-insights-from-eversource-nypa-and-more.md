@@ -1,7 +1,9 @@
 ---
 title: '"AI in Utilities: Insights from Eversource, NYPA, and more"'
 url: https://www.linkedin.com/posts/jeremiah-karpowicz_dtech-ai-utilities-activity-7382417874205925376-QNTl
-date: '2026-05-25'
+published: ''
+date_basis: harvested
+harvested: '2026-05-25'
 query: '"Eversource Energy" press release artificial intelligence'
 position: 1
 source: serpapi-google

@@ -1,7 +1,9 @@
 ---
 title: Eversource | UConn Tech Park | University of Connecticut
 url: https://techpark.uconn.edu/category/eversource/
-date: '2026-05-25'
+published: ''
+date_basis: harvested
+harvested: '2026-05-25'
 query: '"Eversource Energy" press release artificial intelligence'
 position: 3
 source: serpapi-google
