@@ -1,0 +1,53 @@
+edges:
+- partner_name: Arcadia
+  partner: arcadia-power
+  channel: partner-built
+  direction: partner-built
+  operations:
+  - statements
+  - statement-history
+  - web-navigation
+  - intervals
+  - interval-history
+  contract_reference:
+    list: Arcadia Plug provider coverage (public list)
+    spec_file: null
+    listed_name: Eversource
+    listed_id: prv_1e4d377b-62bf-d3d9-992b-22000b31a016
+    matched_domain: eversource.com
+    service_types:
+    - Lighting
+    - Sanitation
+    - Electric
+    - Natural Gas
+    detected_by: sweep-energy.py
+    detected: '2026-10-13'
+  type: coverage
+  relationship: system-coverage
+  evidence: https://api.arcadia.com/plug/providers/public
+  detected_by: sweep-energy.py
+  first_seen: '2026-10-13'
+- partner_name: UtilityAPI
+  partner: utilityapi
+  channel: partner-built
+  direction: partner-built
+  operations: null
+  contract_reference:
+    list: UtilityAPI utility documentation
+    spec_file: null
+    listed_name: Eversource Massachusetts
+    listed_id: evrsrcma
+    matched_domain: eversource.com
+    service_types: null
+    detected_by: sweep-energy.py
+    detected: '2026-10-13'
+  type: coverage
+  relationship: system-coverage
+  evidence: https://utilityapi.com/docs/utilities/evrsrcma
+  detected_by: sweep-energy.py
+  first_seen: '2026-10-13'
+generated: '2026-10-13'
+method: searched
+checked:
+- https://api.arcadia.com/plug/providers/public
+- https://utilityapi.com/docs/utilities
