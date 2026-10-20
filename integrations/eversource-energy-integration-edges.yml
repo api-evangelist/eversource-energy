@@ -7,8 +7,6 @@ edges:
   - statements
   - statement-history
   - web-navigation
-  - intervals
-  - interval-history
   contract_reference:
     list: Arcadia Plug provider coverage (public list)
     spec_file: null
